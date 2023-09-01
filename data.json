@@ -1,0 +1,328 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "image": "https://www.cloudways.com/wp-content/uploads/2020/01/testimonial-edward.png",
+      "name": "Omar Siphron",
+      "rating": 5,
+      "comment": "This product exceeded my expectations in every way. It's easy to use and has all the features I need. Highly recommended!"
+    },
+    {
+      "id": 2,
+      "name": "Kaiya Lubin",
+      "image": "https://www.orbitmedia.com/wp-content/uploads/2017/03/jen-havice.png",
+      "rating": 4.2,
+      "comment": "I was really excited to try this product, but unfortunately it didn't live up to my expectations. It's difficult to use and doesn't have all the features I was looking for."
+    },
+    {
+      "id": 3,
+      "name": "Terry George",
+      "rating": 3.5,
+      "image": "http://hvrealestate.ae/wp-content/uploads/2022/05/rorykelleher-1-300x294-1.png",
+      "comment": "I was pleasantly surprised by how much value this product offers for the price. It's not the most advanced product out there, but it gets the job done and I'm very happy with it."
+    },
+    {
+      "id": 4,
+      "name": "Erin Septimus",
+      "rating": 2.7,
+      "image": "https://www.equilar.com/images/testimonial/hagen-lorna-headshot-round-200x200.png",
+      "comment": "I had a problem with this product and tried to contact customer service, but they were unhelpful and didn't resolve my issue. I wouldn't recommend this product based on my experience."
+    },
+    {
+      "id": 5,
+      "image": "https://i.em.com.br/0ZsdGYlyWG0zxvaSlq6J9lbh0mI=/1200x1200/smart/imgsapp.em.com.br/app/noticia_127983242361/2022/12/06/1429977/harry-styles_1_64911.jpeg",
+      "name": "William Brown",
+      "rating": 6,
+      "comment": "Overall, I'm happy with this product. It's easy to use and has most of the features I need. However, there are a few minor issues that could be improved."
+    },
+    {
+      "id": 6,
+      "name": "Lisa Chen",
+      "rating": 5,
+      "image": "https://images.squarespace-cdn.com/content/v1/557aec54e4b03c2094a2b4be/1548181738786-ZICMD107QZ5HH52QBUZ1/farough+testimonial+pics-04.png?format=1000w",
+      "comment": "I've tried a lot of products in this category, but this one is hands-down the best. It's easy to use, has all the features I need, and looks great too. Highly recommended!"
+    },
+    {
+      "id": 7,
+      "name": "Andrew Kim",
+      "rating": 4.8,
+      "image": "https://elitelifemanagementllc.com/web/img/testimonial-5.png",
+      "comment": "I was really disappointed with this product. It's expensive and doesn't offer much more than cheaper alternatives. Save your money and look elsewhere."
+    },
+    {
+      "id": 8,
+      "name": "Jennifer Lee",
+      "rating": 3.6,
+      "image": "https://www.westernunion.com/staticassets/content/dam/wu/jm/responsive/send-money-in-person-from-jamaica-resp.png",
+      "comment": "If you're new to this kind of product, this is a great option. It's easy to use and has all the basic features you need to get started. However, more advanced users might find it lacking."
+    },
+    {
+      "id": 9,
+      "name": "Robert Johnson",
+      "rating": 4.5,
+      "image": "https://storage.needpix.com/rsynced_images/man-388104_1280.jpg",
+      "comment": "I had an issue with this product and reached out to customer support. They were very helpful and resolved my issue quickly. I'm very happy with my purchase and would recommend this product to others."
+    },
+    {
+      "id": 10,
+      "name": "Sarah Davis",
+      "rating": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZG-8Pk5VYr_MOP4Ks3uEeZdArTUAizNRwg&usqp=CAU",
+      "comment": "I was looking for a product that could do a specific task, and this one fit the bill perfectly. It's easy to use and has all the features I need. I'm very happy with my purchase."
+    },
+    {
+      "id": 11,
+      "name": "Michael Brown",
+      "rating": 2.9,
+      "image": "https://st.depositphotos.com/1269204/1219/i/600/depositphotos_12196477-stock-photo-smiling-men-isolated-on-the.jpg",
+      "comment": "I had high hopes for this product based on the advertising, but it didn't live up to my expectations. It's difficult to use and doesn't have all the features I was looking for."
+    },
+    {
+      "id": 12,
+      "name": "Emily Chen",
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP7bIUR8GlFyLkwrOC_EfJlaylyGmGvqhXnZdHod6eQssxEc7muNPvfrlJDvlqhzy67sI&usqp=CAU",
+      "comment": "I had high hopes for this product based on the advertising, but it didn't live up to my expectations. It's difficult to use and doesn't have all the features I was looking for."
+    },
+    {
+      "id": 13,
+      "name": "Samantha Lee",
+      "rating": 3.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3IzQtWN5Mh8xNHfltIeO6rP9FBlWKhwELl7Z7H2r38xinOS6mEal53GeTQbvmJ-Ugak&usqp=CAU",
+      "comment": "I had a problem with this product and contacted customer service. They were very responsive and helped me resolve my issue quickly. I'm very satisfied with the customer service."
+    },
+    {
+      "name": "John Devid",
+      "comment": "hello",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 14
+    },
+    {
+      "name": "John Devid",
+      "comment": "amazing",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 15
+    },
+    {
+      "name": "John Devid",
+      "comment": "p",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 16
+    },
+    {
+      "name": "John Devid",
+      "comment": "amazing",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 17
+    },
+    {
+      "name": "John Devid",
+      "comment": "super",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 18
+    },
+    {
+      "name": "John Devid",
+      "comment": "auau",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 19
+    },
+    {
+      "name": "John Devid",
+      "comment": "hello",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 20
+    },
+    {
+      "name": "John Devid",
+      "comment": "whwh",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 21
+    },
+    {
+      "name": "John Devid",
+      "comment": "hsh",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 22
+    },
+    {
+      "name": "John Devid",
+      "comment": "amazing",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 23
+    },
+    {
+      "name": "John Devid",
+      "comment": "amazing",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 24
+    },
+    {
+      "name": "John Devid",
+      "comment": "saalam",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 25
+    },
+    {
+      "name": "John Devid",
+      "comment": "amazing",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 26
+    },
+    {
+      "name": "John Devid",
+      "comment": "12",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 27
+    },
+    {
+      "name": "John Devid",
+      "comment": "amZING",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 28
+    },
+    {
+      "name": "John Devid",
+      "comment": "shs",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "id": 29
+    }
+  ],
+  "trips": [
+    {
+      "id": 1,
+      "tripName": "Istanbul, Turkey",
+      "tripImg": "https://media.istockphoto.com/id/1327842864/photo/blue-mosque-of-istanbul-famous-place-of-visit-turkey.webp?b=1&s=170667a&w=0&k=20&c=YjN-SXr1eQuJcNA7DvFP103vcJWrX5md4tSNmo7QmdE="
+    },
+    {
+      "id": 2,
+      "tripName": "Sydney, Australia",
+      "tripImg": "https://a.cdn-hotels.com/gdcs/production0/d1645/0c67ff64-cf54-4886-91dd-89aa601463af.jpg"
+    },
+    {
+      "id": 3,
+      "tripName": "Baku, Azerbaijan",
+      "tripImg": "https://cdn.britannica.com/21/195821-050-7860049D/Baku-blend-Azerbaijan-skyscrapers-buildings.jpg"
+    },
+    {
+      "id": 4,
+      "tripName": "Malé, Maldives",
+      "tripImg": "https://img.freepik.com/free-photo/blue-villa-beautiful-sea-hotel_1203-5316.jpg?w=2000"
+    },
+    {
+      "id": 5,
+      "tripName": "Paris, France",
+      "tripImg": "https://travellersworldwide.com/wp-content/uploads/2022/06/shutterstock_667548661.png.webp"
+    },
+    {
+      "id": 6,
+      "tripName": "New York, US",
+      "tripImg": "https://www.travelandleisure.com/thmb/91pb8LbDAUwUN_11wATYjx5oF8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/new-york-city-evening-NYCTG0221-52492d6ccab44f328a1c89f41ac02aea.jpg"
+    },
+    {
+      "id": 7,
+      "tripName": "London, UK",
+      "tripImg": "https://www.studying-in-uk.org/wp-content/uploads/2019/05/study-in-london.jpg"
+    },
+    {
+      "id": 8,
+      "tripName": "Tokyo, Japan",
+      "tripImg": "https://hips.hearstapps.com/hmg-prod/images/high-angle-view-of-tokyo-skyline-at-dusk-japan-royalty-free-image-1664309926.jpg"
+    },
+    {
+      "id": 9,
+      "tripName": "Dubai, UAE",
+      "tripImg": "https://media.cnn.com/api/v1/images/stellar/prod/200310023921-dubai-buildings-skyline.jpg?q=x_3,y_0,h_1684,w_2993,c_crop/h_720,w_1280"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "travelName": "Melbourne",
+      "price": "900",
+      "about": "An amazing journey",
+      "image": "https://pbs.twimg.com/media/FnmCrdJaQAAIsNF.jpg:large"
+    },
+    {
+      "id": 2,
+      "travelName": "Paris",
+      "price": "750",
+      "about": "A Paris Adventure",
+      "image": "https://images.unsplash.com/photo-1564594736624-def7a10ab047?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80"
+    },
+    {
+      "id": 3,
+      "travelName": "London",
+      "price": "800",
+      "about": "London eye adventure",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/London_Big_Ben_Phone_box.jpg/640px-London_Big_Ben_Phone_box.jpg"
+    },
+    {
+      "id": 4,
+      "travelName": "Columbia",
+      "price": "650",
+      "about": "An amazing journey",
+      "image": "https://prestiztrojmiasto.pl/sites/default/files/styles/hm-magazyn-th/public/media/troj75_051_01.jpg?itok=YWXzrRdo"
+    },
+    {
+      "id": 5,
+      "travelName": "Sydney",
+      "price": "400",
+      "about": "An amazing journey",
+      "image": "https://static01.nyt.com/images/2022/10/21/travel/00hours-Sydney-interstitial2/00hours-Sydney-interstitial2-mobileMasterAt3x.jpg"
+    },
+    {
+      "id": 6,
+      "travelName": "Chicago",
+      "price": "800",
+      "about": "A Chicago Adventure",
+      "image": "https://www.segalco.com/media/1170/chicago-il.jpg?anchor=center&mode=crop&width=750&height=875&rnd=132224586160000000"
+    },
+    {
+      "id": 7,
+      "travelName": "Tokio",
+      "price": "830",
+      "about": "Tokio adventure",
+      "image": "https://media.istockphoto.com/id/1297470894/photo/tokyos-famous-shinjuku-district.jpg?s=170667a&w=0&k=20&c=nWP9gRqr3XFWg5VyCozSnN-W4zf5CwjM-KBF09F69Lg="
+    },
+    {
+      "id": 8,
+      "travelName": "Berlin",
+      "price": "900",
+      "about": "Amazing streets",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/01/08/12/berlin-overview.jpg?width=1200&height=1200"
+    }
+  ],
+  "location": [
+    {
+      "id": 1,
+      "name": "Sydney",
+      "price": 900,
+      "paragraf": "Sydney is home to must-visit icons like the Sydney Harbour Bridge and Opera House, but this Harbour City is constantly evolving. New rooftop bars, theatre shows and designer shops pop up at every turn, and the urban excitement is perfectly balanced by afternoons spent lying on the sand. Plus, with diverse destinations at its doorstep, Sydney is the perfect base for day trips and weekends away.",
+      "image1": "https://wakeup.com.au/wp-content/uploads/3shutterstock_1094901527.jpg",
+      "image2": "https://lp-cms-production.imgix.net/2023-01/876030516.jpg?auto=format&q=75&w=1920",
+      "image3": "https://media.timeout.com/images/105959433/750/422/image.jpg",
+      "image4": "https://www.riotgames.com/darkroom/1440/da80743860ce2a42d007f63076c3b73e:e8ad3e3c6d7d1ffd2d21623cf3b76ab9/riot-games-sydney-austrailia-office-page.png"
+    },
+    {
+      "id": 2,
+      "name": "Sri Lanka",
+      "price": 700,
+      "paragraf": "Srilanka is rich in the heritage of Art, Culture, History, and Knowledge, which makes the country more famous among travelers from all over the world. Explore the beautiful landscape of Srilanka with Srilankan Tourism and travel to amazing breathtaking destinations such as the towering mountain of Cappadocia, and the warm beaches of Alanya, the ancient city of Antalya. Srilankan tourism designs the Srilanka holiday tour packages in such a way that the tourist can enjoy and visit the places of Srilanka with the best experience.",
+      "image1": "https://www.myluxurytravel.fr/wp-content/uploads/2017/07/voyage-sur-mesure-sri-lanka-scaled.jpg",
+      "image2": "https://images.contentstack.io/v3/assets/blt00454ccee8f8fe6b/blt140a002a321661c3/60ab2583a450c25ac83cfc58/UK_SriLanka_LK_Header.jpg",
+      "image3": "https://i.assetzen.net/i/2VY7rX5z2Jh1/w:1200/h:808/q:70.jpg",
+      "image4": "https://travelmelodies.com/wp-content/uploads/2017/12/travel-melodies-sri-lanka-itinerary-with-kids-768x576.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Maldives",
+      "price": 800,
+      "paragraf": "The Maldives are numerous coral reef islands, the name of which consists of the words 'mahal' (palace) and 'diva' (island). For the first time, divers discovered this tourist destination in the early 70s of the last century. But the real popularity for these paradise islands came after the advertising of Bounty chocolate bar. Turquoise ocean, white sandy beach, palm trees — the picture impressed people around the world so much that it became an ultimate dream and a place where everyone aspires to get",
+      "image1": "https://lp-cms-production.imgix.net/2020-09/The%20Nautilus%20Maldives_July19-9335.jpg",
+      "image2": "https://lilybeachmaldives.com/wp-content/uploads/2017/09/aerial-2.jpg",
+      "image3": "https://www.telegraph.co.uk/content/dam/Travel/hotels/asia/maldives/the-nautilus-maldives-beach-residence-hotel-beach.jpg",
+      "image4": "https://ns.clubmed.com/nmea/2021/B2C/341/WEB/LANDING/DISCOVER_MALDIVES/island_maldives.jpg"
+    }
+  ]
+}
